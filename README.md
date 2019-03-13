@@ -18,7 +18,7 @@ At first glance you are able to see 2 separation in the structure of the code st
         h)<script>: Defines the client-side script, in this case pointing to where the code lies.
 
 4: 
-    1)(index):Index of where each file goes
+    1)(index):Index of where each files go
     2)'hn.js?ok3V8Gydw5sSOFppv3U2': java script file wich contains a list of functions
     3)'news.css?ok3V8Gydw5sSOFppv3U2': css files containing a list of properties for different ids and classes.
     4)'grayarrow.gif': gray arrow gif
