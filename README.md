@@ -2,7 +2,7 @@
 Base project for lab assignment 1
 
 3: 
-At first glance you are able to see 2 separation in the structure of the code structure of the website:
+At first glance you are able to see 2 separation in the code structure of the website:
     1) Head: Wich we can identify by <head> (tag to open the header) and </head> (tag to close it), anythinig between those two tags is what makes up the head. In this particular head, their apears to be no code wich makes a direct impact on the visual apect of the site. We are abel to see 3 diferent types of tags:
         a) <meta>: The meta stands for metadata, this  <meta> tag provides data about the data on your page.
         b) <link>: The <link> tag defines a link between a document and an external resource.
